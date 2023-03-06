@@ -34,7 +34,7 @@ We build our MLOps platform in phases, as in the beginning we only had a few sma
 * Feature store/ feature platform
 * Drift monitoring
 
-We are still in the process of building out the Synth framework. We are currently in Phase 2. For each phase, we will share the code template for infrastructure, as well as detailed tutorials.
+We are still in the process of building out the `synth` framework. We are currently in Phase 2. For each phase, we will share the code template for infrastructure, as well as detailed tutorials.
 
 ## Working group and contributors
 
@@ -45,6 +45,9 @@ Past working group sessions (meeting notes [here](https://docs.google.com/docume
 * 01/17/2023 takeaways: think about data infrastructure first.
 * 01/20/2023 takeaways: start small, build out in phases.
 
+If you are interested in contributing to AutoDC project, please check out the [Contributor Guide](https://github.com/sylphai-com/synth/blob/main/contributing.md) and the [Code of Conduct](https://github.com/sylphai-com/synth/blob/main/code-of-conduct.md).
+
+
 ## Discord community
 
 We also have a dedicated Discord channel to coordinate the project and working group. You can join [here](https://discord.gg/Sw2dKjxVqU).
@@ -53,7 +56,7 @@ We also have a dedicated Discord channel to coordinate the project and working g
 
 zac@sylphai.com; li@sylphai.com; mani@sylphai.com
 
-## [License](https://github.com/gohypergiant/AutoDC/blob/stable/LICENSE)
+## [License](https://github.com/sylphai-com/synth/blob/main/LICENSE)
 
 Apache 2.0 License.
 
