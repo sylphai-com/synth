@@ -1,4 +1,4 @@
-## AutoDC Community Code of Conduct 1.0
+## SylphAI Community Code of Conduct 1.0
 
 
 ### Our Pledge
