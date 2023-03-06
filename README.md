@@ -53,3 +53,7 @@ We also have a dedicated Discord channel to coordinate the project and working g
 
 zac@sylphai.com; li@sylphai.com; mani@sylphai.com
 
+## [License](https://github.com/gohypergiant/AutoDC/blob/stable/LICENSE)
+
+Apache 2.0 License.
+
