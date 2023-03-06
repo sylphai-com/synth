@@ -55,8 +55,8 @@ communication channels used by our community.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community
-leaders responsible for enforcement via e-mail to the AutoDC Project Management Committee at
-zac.liu AT hypergiant DOT com and sylvia.tran AT hypergiant DOT com. All complaints will be reviewed and investigated promptly and fairly.
+leaders responsible for enforcement via e-mail to the `synth` Project Management Committee at
+zac AT sylphai DOT com and li AT sylphai DOT com. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
