@@ -4,7 +4,7 @@
 
 ## About
 
-`synth` is an open-source framework that helps ML teams to jump start their internal MLOps platform building process and speed up their ML innovations.
+`synth` is an open-source framework that helps ML teams to jump start their internal MLOps platform building process and speed up their ML innovations. `synth` is short for synthesizer, which is used to compose music; in ML, we envision `synth` is used to “compose” a robust ML platform.
 
 `synth` is started by SylphAI’s ML team, aiming to share our MLOps journey with the ML community. SylphAI is building a flexible work platform that is powered by state-of-the-art ML models, LLM (Large Language Model), and their APIs, therefore, having a robust MLOps infrastructure is essential to iterate ML lifecycle efficiently within our ML team as well as ensure high-quality user experiences on our product. 
 
