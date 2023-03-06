@@ -45,7 +45,7 @@ Past working group sessions (meeting notes [here](https://docs.google.com/docume
 * 01/17/2023 takeaways: think about data infrastructure first.
 * 01/20/2023 takeaways: start small, build out in phases.
 
-If you are interested in contributing to AutoDC project, please check out the [Contributor Guide](https://github.com/sylphai-com/synth/blob/main/contributing.md) and the [Code of Conduct](https://github.com/sylphai-com/synth/blob/main/code-of-conduct.md).
+If you are interested in contributing to `synth` project, please check out the [Contributor Guide](https://github.com/sylphai-com/synth/blob/main/contributing.md) and the [Code of Conduct](https://github.com/sylphai-com/synth/blob/main/code-of-conduct.md).
 
 
 ## Discord community
