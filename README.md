@@ -54,7 +54,7 @@ We also have a dedicated Discord channel to coordinate the project and working g
 
 ## Contacts
 
-zac@sylphai.com; li@sylphai.com; mani@sylphai.com
+zac@sylphai.com; mani@sylphai.com
 
 ## [License](https://github.com/sylphai-com/synth/blob/main/LICENSE)
 
