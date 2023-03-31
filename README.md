@@ -14,9 +14,14 @@ SylphAI is a tech startup with a small ML team, therefore, this framework would 
 
 Our vision and requirement for the internal MLOps platform are to support both batch and real-time ML predictions; this ML platform should be flexible, scalable, transparent (easy to debug), vendor-agnostic, infrastructure-agnostic, and developer-friendly, more collaborative. Most importantly, we will build out all components in the ML platform completely with open sources. Moreover, the key to productivity and quality is allowing developers or researchers to use powerful tools they are familiar with, such as VS code, rather than getting trapped in a vendor-hosted Jupyter notebook. 
 
-## Phase
+## Phases
 
 We build our MLOps platform in phases, as in the beginning we only had a few small ML models in production to support our product. As we scale to support growing users and product functions, the MLOps requirement would change. Below is the roadmap of this MLOps platform framework:
+
+### Phase 0: Out-of-box solutions + training data gathering
+* Leverage OpenAI's API's to directly serve NLP use cases such as: recommendatation using embedding or content creation using Generative AI
+
+**The mistake we made is to jump to Phase 1 before we come back to the out-of-box Phase 0**
 
 ### Phase 1: Start small (3+ models in production)
 * Develop simple ML models locally
