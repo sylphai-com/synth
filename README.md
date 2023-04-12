@@ -1,14 +1,10 @@
-# SylphAI ML Platform Framework- Synth
+Open-source ML Platform Framework- Synth
 
 ![image](logo-1.svg)
 
 ## About
 
 `synth` is an open-source framework that helps ML teams to jump start their internal MLOps platform building process and speed up their ML innovations. `synth` is short for synthesizer, which is used to compose music; in ML, we envision `synth` is used to “compose” a robust ML platform.
-
-`synth` is started by SylphAI’s ML team, aiming to share our MLOps journey with the ML community. SylphAI is building a flexible work platform that is powered by state-of-the-art ML models, LLM (Large Language Model), and their APIs, therefore, having a robust MLOps infrastructure is essential to iterate ML lifecycle efficiently within our ML team as well as ensure high-quality user experiences on our product. 
-
-SylphAI is a tech startup with a small ML team, therefore, this framework would be best for startups, however, we believe some principles can be applied to larger companies who just start out with ML. 
 
 ## Vision
 
@@ -22,6 +18,8 @@ We build our MLOps platform in phases, as in the beginning we only had a few sma
 * Leverage OpenAI's API's to directly serve NLP use cases such as: recommendatation using embedding or content creation using Generative AI
 
 **The mistake we made is to jump to Phase 1 before we come back to the out-of-box Phase 0**
+
+Check out [Chip's tutorial on Building LLM applications for production.](https://huyenchip.com/2023/04/11/llm-engineering.html)
 
 ### Phase 1: Start small (3+ models in production)
 * Develop simple ML models locally
