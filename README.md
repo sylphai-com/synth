@@ -1,7 +1,5 @@
 Open-source ML Platform Framework- Synth
 
-![image](logo-1.svg)
-
 ## About
 
 `synth` is an open-source framework that helps ML teams to jump start their internal MLOps platform building process and speed up their ML innovations. `synth` is short for synthesizer, which is used to compose music; in ML, we envision `synth` is used to “compose” a robust ML platform.
