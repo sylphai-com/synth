@@ -12,7 +12,7 @@ Our vision and requirement for the internal MLOps platform are to support both b
 
 We build our MLOps platform in phases, as in the beginning we only had a few small ML models in production to support our product. As we scale to support growing users and product functions, the MLOps requirement would change. Below is the roadmap of this MLOps platform framework:
 
-### Phase 0: Out-of-box APIs + training data gathering
+### Phase 0: Out-of-box APIs + training data gathering (0 model in production)
 * Leverage OpenAI's API's to directly serve NLP use cases such as: recommendatation using embedding or content creation using Generative AI. Check out [Chip's tutorial on Building LLM applications for production.](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * (Coming soon) How to use AWS amplify lambda function to quickly build your AI use case? 
 
